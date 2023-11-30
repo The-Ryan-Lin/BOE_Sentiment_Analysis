@@ -119,7 +119,8 @@ The figure above maps our methodology for analysing the BOE speeches and their c
 
 <h2>Findings and Recommendations - Final Stakeholder Presentation</h2> 
 
-If you would like to view the video recording of the presentation delivered to the Bank of England, please click below (navigates to a Google Drive video): 
+If you would like to view the video recording of the presentation delivered to the Bank of England, please click below (navigates to a Google Drive video). The Presentation is 20 minutes long with 10 minutes of feedback from the BOE at the end. 
+* The timestamps where I am presenting are between 00:02 - 02:36 and 10:50 - 20:08: 
 
 <a href="https://drive.google.com/file/d/1agBjYtLJ-edNxAbBZ2sRzHiQWthENQOh/view?usp=sharing">
   <img src="Figures/BOE.gif" alt="BOE Analysis GIF">
