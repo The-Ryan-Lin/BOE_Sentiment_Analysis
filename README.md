@@ -119,6 +119,9 @@ The figure above maps our methodology for analysing the BOE speeches and their c
 
 <h2>Findings and Recommendations - Final Stakeholder Presentation</h2> 
 
-If you would like to view the video recording of the presentation delivered to the Bank of England, please click the image below (navigates to a Google Drive video): 
-[![2Marke_intro_slide](https://github.com/The-Ryan-Lin/Ryan_Lin_DA101_Assignment/blob/main/Figures/intro_2Market.png)](https://drive.google.com/file/d/10rIX3Q-Mf7AZNEOZj3gSkGzJsqzyE4So/view?usp=drive_link)
+If you would like to view the video recording of the presentation delivered to the Bank of England, please click below (navigates to a Google Drive video): 
+
+<a href="https://drive.google.com/file/d/1agBjYtLJ-edNxAbBZ2sRzHiQWthENQOh/view?usp=sharing">
+  <img src="Figures/BOE.gif" alt="BOE Analysis GIF">
+</a>
 
