@@ -126,3 +126,11 @@ If you would like to view the video recording of the presentation delivered to t
   <img src="Figures/BOE.gif" alt="BOE Analysis GIF">
 </a>
 
+<h2>Feedback from the Bank of England Data Science Team</h2> 
+
+The project development process was summarised clearly and creatively, with advanced visualisation techniques and storytelling to justify recommendations. Multiple advanced presentation techniques were utilised to engage the audience. 
+* Clear, concise framing of the business problem and methodology that showed a good understanding of the task.
+* Excellent use of a histogram to do some EDA before diving into the task.
+* Excellent acknowledgement of limitations and suggested improvements to the analysis, especially the collinearity of indicators and highlighting that the predictive model isn’t appropriate in its current form.
+* Use of advanced visualisation techniques e.g. heatmap was effective and felt appropriate for the data.
+* Overall very statistically rigorous, not just relying on visual comparison but using well-known statistical tests to back up the conclusions.
