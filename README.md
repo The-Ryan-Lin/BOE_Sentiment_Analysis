@@ -8,7 +8,7 @@
    *  Correlation Analysis (Time-lag/ Cross-correlation, Granger Causality, Seasonal Decomposition)
    *  Regression Analysis, Logistic Classification
 
-Grade: __TBD__
+Grade: __85% (Disctinction)__
 
 <h2>Project Introduction</h2> 
   <p>
